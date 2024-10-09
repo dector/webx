@@ -1,4 +1,10 @@
 {
+	"name": "@dector/webx",
+	"version": "1.0.0",
+	"license": "MIT",
+	"exports": {
+		"./ip": "./src/ip.ts"
+	},
 	"tasks": {},
 	"imports": {}
 }
